@@ -1,9 +1,11 @@
 # microbit
 any microbit projects we run will be linked to here: 
 
-Progrram the micro:bit using:
+Program the micro:bit using:
 https://makecode.microbit.org/ which offers block-based programming 
 or download https://codewith.mu/ Mu, micropython that can flash directly to the microbit from a Pi. 
+
+https://microbit.edublocks.org/ allows Block-to-Python conversion in the browser but lacks the extensions of the Makecode webiste
 
 You may also wish to use the official ios app 
 https://itunes.apple.com/gb/app/micro-bit/id1092687276?mt=8
